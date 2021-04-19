@@ -3,6 +3,8 @@
 
 Creating this blog as I learn something new - `The Mighty Django Framework` which I have wanted to do for months now!
 
+ [Tutorial on YouTube](https://www.youtube.com/watch?v=UmljXZIypDc&ab_channel=CoreySchafer)
+
 ## Commands Learned
 `pip3 install django` to install the framework
 
